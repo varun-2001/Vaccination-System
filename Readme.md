@@ -14,22 +14,22 @@ Installation
 3.Install the required packages by running the following command:
 
 ```shell
-        npm install
+    npm install
 ```
 4.Start the Node.js server by running the following command:
 
 ```shell
-        node index.js
+    node index.js
 ```
 5.Navigate to the react-js folder in another terminal window.
 6.Install the required packages by running the following command:
 
 ```shell
-        npm install
+    npm install
 ```
 7.Start the React app by running the following command:
 ```shell
-        npm start
+    npm start
 ```
 8.The React app should now be running and can be accessed through a web browser at http://localhost:3000/.
 

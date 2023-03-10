@@ -36,16 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-/* Style DataTable in Charts.js to have lines and thick borders and vertical and horizontal lines */
-
-table{
-  border-collapse: collapse;
-  border: 1px solid black;
-  border-spacing: 0;
-  border-width: 1px;
-  border-style: solid;
-  border-color: black;
-  border-image: initial;
-}
-

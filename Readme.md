@@ -1,5 +1,37 @@
 This is a vaccination system built with React and includes API endpoints to post data, retrieve data from the table, get age-wise counts of vaccinated people, and get age-wise and gender-wise vaccination results.
 
+Prerequisites
+
+    Node.js must be installed on your computer. You can download it from Node.js official website.
+    NPM (Node Package Manager) must be installed on your computer.
+
+Installation
+
+    1.Clone the repository to your local machine
+    2.Navigate to the server folder in your terminal.
+    3.Install the required packages by running the following command:
+
+```shell
+        npm install
+```
+    4.Start the Node.js server by running the following command:
+
+```shell
+        node index.js
+```
+    5.Navigate to the react-js folder in another terminal window.
+    6.Install the required packages by running the following command:
+
+```shell
+        npm install
+```
+    7.Start the React app by running the following command:
+```shell
+        npm start
+```
+    8.The React app should now be running and can be accessed through a web browser at http://localhost:3000/.
+
+
 API Endpoints
 
 The following are the API endpoints that you can use to interact with the system:

@@ -8,7 +8,9 @@ NPM (Node Package Manager) must be installed on your computer.
 Installation
 
 1.Clone the repository to your local machine
+
 2.Navigate to the server folder in your terminal.
+
 3.Install the required packages by running the following command:
 
 ```shell
@@ -30,6 +32,7 @@ Installation
         npm start
 ```
 8.The React app should now be running and can be accessed through a web browser at http://localhost:3000/.
+
 
 
 API Endpoints

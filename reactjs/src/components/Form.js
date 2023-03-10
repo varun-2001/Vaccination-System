@@ -81,8 +81,8 @@ const Create = () => {
         <button>Enter Data</button>
       </form>
       <br></br>
-      <button onClick={()=>navigate("/data")}>View Data</button> 
-      <button onClick={()=>navigate("/charts")}>Get Charts</button>
+      <button class="view" onClick={()=>navigate("/data")}>View Data</button> 
+      <button class="view" onClick={()=>navigate("/charts")}>Get Charts</button>
     </div>
   );
 }
